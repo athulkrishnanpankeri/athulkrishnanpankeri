@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @athulkrishnanpankeri
-- 👀 I’m interested in 
-- 🌱 I’m currently learning <h2> C , JAVA , JAVASCRIPT </h2>
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning <h4> C , JAVA , JAVASCRIPT </h4>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
