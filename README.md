@@ -1,7 +1,8 @@
 <h8>Hi,I'm @athulkrishnanpankeri 👋👻 </h8>
 
 - 🔭 Currenty Learning DSA.
-- 🌱 DevOps Enthusiast.
+- 🔗 DevOps Enthusiast.
+- ☁️ Azure Expert to be.
 
 
  
